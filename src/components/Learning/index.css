@@ -1,0 +1,35 @@
+.small-container{
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 190px;
+    width: 300px;
+    margin-left: 130px;
+    padding: 3px;
+}
+.red-container{
+    border-top: solid red 4px;
+}
+.blue-container{
+    border-top: solid blue 4px;
+}
+.yellow-container{
+    border-top: solid yellow 4px;
+}
+.green-container{
+    border-top: solid green 4px;
+}
+.main-container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.heading{
+    background-color: #ffffff;
+    font-size: 28px;
+
+}
+.para1{
+    background-color: #ffffff;
+    font-size: 13px;
+}

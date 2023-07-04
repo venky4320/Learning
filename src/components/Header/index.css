@@ -1,0 +1,16 @@
+*{
+    background-color: #f4faff;
+    font-family: 'Courier New', Courier, monospace;
+}
+h7{
+    text-align: center;
+    padding: 500px;
+}
+.container{
+    text-align: center;
+}
+.para{
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 16px;
+}
